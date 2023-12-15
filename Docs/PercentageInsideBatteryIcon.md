@@ -22,8 +22,10 @@ A cmd window will open
 ### 3. Checking our adb connection
 Connect your phone to your pc using an USB cable, make sure your phone is unlocked while running these commands
 - We will now run a command to check if our computer can see our phone in adb mode
+
  ``adb devices``
-	 - Once we press enter, our phone will show a pop up window asking for permission, we press on allow
+
+- Once we press enter, our phone will show a pop up window asking for permission, we press on allow
 	
 	![](https://cdn.discordapp.com/attachments/1087148119743025174/1185270144612696094/IMG_20231215_175319.jpg?ex=658effd7&is=657c8ad7&hm=2acfa302ff5df837953480b96750dbf3bf533e13dbd4076349c7025bca2e4a61&)
 
