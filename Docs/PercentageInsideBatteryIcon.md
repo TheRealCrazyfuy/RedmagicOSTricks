@@ -11,12 +11,14 @@ You will need:
 - Unlock your phone and enter the settings app, go to `About phone` and press 7 times the `build number`, a message will appear at the bottom telling us that we are a developer.
 - Go back and enter `Advanced settings`, you will see a new option called `Developer options`, enter it
 - If you scroll a little you will see a `USB debugging` option that we need to enable if it isn't already
+
 ### 2. Downloading Minimal ADB
 Now we need to download our ADB program on our computer. These steps are made for Windows, if you have any linux distro or MacOS you will need to find for yourself how to install ADB there
 - Download [Minimal ADB](https://androidfilehost.com/?fid=962187416754459552) on your computer
 - Extract it anywhere
 - Enter the extracted folder and open "cmd-here.exe"
 A cmd window will open
+
 ### 3. Checking our adb connection
 Connect your phone to your pc using an USB cable, make sure your phone is unlocked while running these commands
 - We will now run a command to check if our computer can see our phone in adb mode
@@ -30,6 +32,7 @@ Connect your phone to your pc using an USB cable, make sure your phone is unlock
 	![](https://cdn.discordapp.com/attachments/1087148119743025174/1185268913114714232/image.png?ex=658efeb2&is=657c89b2&hm=5848a0f70429b37b4cfe5edfa30b9f25ebb2aeb17daf08ae98cd56999e04426b&)
 
 	- If you aren't getting the window in the phone and it isn't showing in our pc, It's possible you don't have the ADB drivers installed, use [this](https://adb.clockworkmod.com/) installer to get them (Usually Windows automatically installs them automatically, this is only for the rare cases it doesn't).
+
 ### 4. Percentage inside battery icon
 Now the part you were waiting for, putting our battery percentage inside the icon!
 - Type this command in the cmd window
