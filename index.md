@@ -1,4 +1,3 @@
-## REDMAGIC OS TRICKS
 Unofficial collection of guides for REDMAGIC OS, made by [me](https://github.com/TheRealCrazyfuy).
 
 - [How to get the old REDMAGIC gallery on newer software versions](GetOldGallery.md)
