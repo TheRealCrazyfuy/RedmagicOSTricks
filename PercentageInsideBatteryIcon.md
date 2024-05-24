@@ -6,7 +6,7 @@ You will need:
 
 -Computer
 
-![](https://media.discordapp.net/attachments/897390969744424982/1154484747511287839/IMG_20230921_202955.jpg?ex=658dbeb5&is=657b49b5&hm=5883558d82b46a607c3dd6daba24ca8a520ef7444c3bddd9af444a128d0d7f58&=&format=webp&width=183&height=138)
+![](/img/PercentageInsideBatteryIcon/batteryImg.png)
 ### 1. Enabling USB debugging 
 - Unlock your phone and enter the settings app, go to `About phone` and press 7 times the `build number`, a message will appear at the bottom telling us that we are a developer.
 - Go back and enter `Advanced settings`, you will see a new option called `Developer options`, enter it
@@ -27,11 +27,11 @@ Connect your phone to your pc using an USB cable, make sure your phone is unlock
 
 - Once we press enter, our phone will show a pop up window asking for permission, we press on allow
 	
-	![](https://cdn.discordapp.com/attachments/1087148119743025174/1185270144612696094/IMG_20231215_175319.jpg?ex=658effd7&is=657c8ad7&hm=2acfa302ff5df837953480b96750dbf3bf533e13dbd4076349c7025bca2e4a61&)
+	![](/img/PercentageInsideBatteryIcon/usbDebuggingWarning.png)
 
  - The output should be something like this
 
-	![](https://cdn.discordapp.com/attachments/1087148119743025174/1185268913114714232/image.png?ex=658efeb2&is=657c89b2&hm=5848a0f70429b37b4cfe5edfa30b9f25ebb2aeb17daf08ae98cd56999e04426b&)
+	![](/img/PercentageInsideBatteryIcon/adbOutput.png)
 
 	- If you aren't getting the window in the phone and it isn't showing in our pc, It's possible you don't have the ADB drivers installed, use [this](https://adb.clockworkmod.com/) installer to get them (Usually Windows automatically installs them automatically, this is only for the rare cases it doesn't).
 
