@@ -6,13 +6,15 @@
 
 #### Overlay for Battery temperature, percentage and ram usage:
 ![](/img/RecommendedApps/stausBarMiniOverlay.jpg)
+
 [Status bar mini](https://status-bar-mini.uptodown.com/android)
 
 #### Overlays temperatures, usage and many system information:
 ![](/img/RecommendedApps/sceneOverlay.jpg)
+
 [Scene7](https://vtools.omarea.com/)
 
-> [!WARNING]
+> ##### WARNING
 > Scene requires: [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) or a computer with ADB access.
 
 #### Check system stability
@@ -27,7 +29,7 @@
 #### OS6 REDMAGIC gallery 
 There's an installation guide for this app [here](GetOldGallery.md)
 
-> [!WARNING]
+> ##### WARNING
 > Might not work properly on the REDMAGIC 9Pro
 
 [Download APK](https://github.com/TheRealCrazyfuy/RedmagicOSTricks/raw/main/oldgallery.apk)
