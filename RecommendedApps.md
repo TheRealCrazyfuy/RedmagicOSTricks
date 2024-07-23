@@ -16,6 +16,7 @@
 
 > ##### WARNING
 > Scene requires: [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) or a computer with ADB access.
+{: .block-warning }
 
 #### Check system stability
 [Cpu throttling test](https://apkpure.com/cpu-throttling-test/skynet.cputhrottlingtest)
@@ -31,6 +32,7 @@ There's an installation guide for this app [here](GetOldGallery.md)
 
 > ##### WARNING
 > Might not work properly on the REDMAGIC 9Pro
+{: .block-warning }
 
 [Download APK](https://github.com/TheRealCrazyfuy/RedmagicOSTricks/raw/main/oldgallery.apk)
 
@@ -41,8 +43,9 @@ For REDMAGIC 9PRO:
 For REDMAGIC 8PRO:
 [Download APK](https://github.com/TheRealCrazyfuy/RedmagicOSTricks/raw/main/APKs/Multi-app_sounds-8pro.apk)
 
-> [!NOTE]
+> ##### TIP
 > After installation go to Settings > Sound & vibration and you will find the multi sounds settings
+{: .block-tip }
 
 ### Other apps
 > Apps that I found interesting to have but aren't really needed 
