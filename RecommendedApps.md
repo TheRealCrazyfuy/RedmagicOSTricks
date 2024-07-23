@@ -1,7 +1,9 @@
 ## Recommended apps for your REDMAGIC phone
 > Apps that will greatly improve your user experience on your REDMAGIC phone
+
 ### Useful apps to assist in gaming
 > Useful apps for gaming
+
 #### Overlay for Battery temperature, percentage and ram usage:
 ![](/img/RecommendedApps/stausBarMiniOverlay.jpg)
 [Status bar mini](https://status-bar-mini.uptodown.com/android)
