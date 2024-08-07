@@ -6,10 +6,10 @@ nav_order: 1
 
 Unofficial collection of guides for REDMAGIC OS, made by [me](https://github.com/TheRealCrazyfuy).
 
-- [How to get the old REDMAGIC gallery on newer software versions](GetOldGallery.html)
+- [How to get the old REDMAGIC gallery on newer software versions](/guides/GetOldGallery.html)
 
 ### Guides for old software versions
-- [(OS6) How to put the battery percentage inside the battery icon](PercentageInsideBatteryIcon.html)
+- [(OS6) How to put the battery percentage inside the battery icon](/guides/old/PercentageInsideBatteryIcon.html)
 
 ### Other guides
 - [Apps you must have](RecommendedApps.html)
