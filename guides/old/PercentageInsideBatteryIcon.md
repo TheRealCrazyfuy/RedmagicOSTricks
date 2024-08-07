@@ -1,5 +1,5 @@
 ---
-title: Put battery percentage on old REDMAGIC OS
+title: Put battery percentage inside battery icon
 layout: default
 parent: Old
 grand_parent: Guides
