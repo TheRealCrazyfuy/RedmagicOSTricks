@@ -2,6 +2,8 @@
 title: Install REDMAGIC gallery
 layout: default
 parent: Old
+grand_parent: Guides
+nav_order: 1
 ---
 
 ## [OS6] Battery percentage inside the icon
