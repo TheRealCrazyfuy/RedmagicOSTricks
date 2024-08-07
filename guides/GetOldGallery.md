@@ -1,3 +1,9 @@
+---
+title: Install REDMAGIC gallery
+layout: default
+parent: Guides
+---
+
 ## How to get the old REDMAGIC gallery on newer software versions
 In this tutorial we will be installing the old REDMAGIC gallery that was available until OS6, in more modern OS versions
 ![](/img/GetOldGallery/GalleryIcon.jpg)

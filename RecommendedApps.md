@@ -1,3 +1,9 @@
+---
+title: Recommended Apps
+layout: default
+nav_order: 3
+---
+
 ## Recommended apps for your REDMAGIC phone
 > Apps that will greatly improve your user experience on your REDMAGIC phone
 

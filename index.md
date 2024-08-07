@@ -1,3 +1,9 @@
+---
+title: Home
+layout: home
+nav_order: 1
+---
+
 Unofficial collection of guides for REDMAGIC OS, made by [me](https://github.com/TheRealCrazyfuy).
 
 - [How to get the old REDMAGIC gallery on newer software versions](GetOldGallery.md)
