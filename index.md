@@ -14,5 +14,12 @@ Unofficial collection of guides for REDMAGIC OS, made by [me](https://github.com
 ### Other guides
 - [Apps you must have](RecommendedApps.html)
 
-### Contact me
-If you think there's something wrong or want to request a guide, you can contact me on [GitHub](https://github.com/TheRealCrazyfuy) or as `realabeja` on Discord
+### Extras
+
+Join the REDMAGIC discord server
+![](https://discord.com/api/guilds/897390969744424980/widget.png?style=banner2)
+[REDMAGIC community discord](https://discord.gg/UvnJ4PwtkG){: .btn .btn-purple }
+
+Join my discord server
+![](https://discord.com/api/guilds/942133699523272704/widget.png?style=banner2)
+[My discord server](https://discord.gg/Hc4UPXqc4j){: .btn .btn-purple }
