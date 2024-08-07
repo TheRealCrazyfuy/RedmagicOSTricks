@@ -1,12 +1,12 @@
 ---
-title: Install REDMAGIC gallery
+title: Put battery percentage on old REDMAGIC OS
 layout: default
 parent: Old
 grand_parent: Guides
 nav_order: 1
 ---
 
-## [OS6] Battery percentage inside the icon
+## Battery percentage inside the icon
 In this tutorial we will be moving our battery percentage inside the battery icon, this feature was added in OS8.0 but we can enable it in older software versions too. This was tested in OS6.0 but it could work on previous versions too.
 You will need:
 
