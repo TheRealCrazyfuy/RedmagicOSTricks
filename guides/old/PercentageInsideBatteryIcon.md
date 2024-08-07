@@ -14,7 +14,7 @@ You will need:
 
 -Computer
 
-![](/img/PercentageInsideBatteryIcon/batteryImg.png)
+![](../../img/PercentageInsideBatteryIcon/batteryImg.png)
 ### 1. Enabling USB debugging 
 - Unlock your phone and enter the settings app, go to `About phone` and press 7 times the `build number`, a message will appear at the bottom telling us that we are a developer.
 - Go back and enter `Advanced settings`, you will see a new option called `Developer options`, enter it
@@ -35,11 +35,11 @@ Connect your phone to your pc using an USB cable, make sure your phone is unlock
 
 - Once we press enter, our phone will show a pop up window asking for permission, we press on allow
 	
-	![](/img/PercentageInsideBatteryIcon/usbDebuggingWarning.png)
+	![](../../img/PercentageInsideBatteryIcon/usbDebuggingWarning.png)
 
  - The output should be something like this
 
-	![](/img/PercentageInsideBatteryIcon/adbOutput.png)
+	![](../../img/PercentageInsideBatteryIcon/adbOutput.png)
 
 	- If you aren't getting the window in the phone and it isn't showing in our pc, It's possible you don't have the ADB drivers installed, use [this](https://adb.clockworkmod.com/) installer to get them (Usually Windows automatically installs them automatically, this is only for the rare cases it doesn't).
 
