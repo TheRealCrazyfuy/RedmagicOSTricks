@@ -17,9 +17,13 @@ Unofficial collection of guides for REDMAGIC OS, made by [me](https://github.com
 ### Extras
 
 Join the REDMAGIC discord server
+
 ![](https://discord.com/api/guilds/897390969744424980/widget.png?style=banner2)
+
 [REDMAGIC community discord](https://discord.gg/UvnJ4PwtkG){: .btn .btn-purple }
 
 Join my discord server
+
 ![](https://discord.com/api/guilds/942133699523272704/widget.png?style=banner2)
+
 [My discord server](https://discord.gg/Hc4UPXqc4j){: .btn .btn-purple }
