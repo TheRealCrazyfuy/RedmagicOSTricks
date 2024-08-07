@@ -11,12 +11,12 @@ nav_order: 3
 > Useful apps for gaming
 
 #### Overlay for Battery temperature, percentage and ram usage:
-![](/img/RecommendedApps/stausBarMiniOverlay.jpg)
+![](./img/RecommendedApps/stausBarMiniOverlay.jpg)
 
 [Status bar mini](https://status-bar-mini.uptodown.com/android)
 
 #### Overlays temperatures, usage and many system information:
-![](/img/RecommendedApps/sceneOverlay.jpg)
+![](./img/RecommendedApps/sceneOverlay.jpg)
 
 [Scene7](https://vtools.omarea.com/)
 
