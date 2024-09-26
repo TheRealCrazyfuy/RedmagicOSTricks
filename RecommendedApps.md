@@ -10,25 +10,31 @@ nav_order: 3
 ## Useful apps to assist in gaming
 > Useful apps for gaming
 
-### Overlay for Battery temperature, percentage and ram usage:
+### Status bar mini:
 ![](./img/RecommendedApps/stausBarMiniOverlay.jpg)
+Overlay for Battery temperature, percentage and ram usage
 
-[Status bar mini](https://status-bar-mini.uptodown.com/android){: .btn .btn-blue }
+[Download](https://status-bar-mini.uptodown.com/android){: .btn .btn-blue }
 
-### Overlays temperatures, usage and many system information:
+### Scene7:
 ![](./img/RecommendedApps/sceneOverlay.jpg)
+Overlays for temperatures, usage and many system information
 
-[Scene7](https://vtools.omarea.com/){: .btn .btn-blue }
+[Download](https://vtools.omarea.com/){: .btn .btn-blue }
 
 > ##### WARNING
 > Scene requires: [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) or a computer with ADB access.
 {: .block-warning }
 
-### Check system stability
-[Cpu throttling test](https://apkpure.com/cpu-throttling-test/skynet.cputhrottlingtest){: .btn .btn-blue }
+### Cpu throttling test
+Check system stability under full load
 
-### Check all your device info 
-[Devcheck](https://play.google.com/store/apps/details?id=flar2.devcheck){: .btn .btn-blue }
+[Download](https://apkpure.com/cpu-throttling-test/skynet.cputhrottlingtest){: .btn .btn-blue }
+
+### Devcheck
+Check many device info
+
+[Download](https://play.google.com/store/apps/details?id=flar2.devcheck){: .btn .btn-blue }
 
 ## Official REDMAGIC APPS
 > Official apps made by REDMAGIC 
@@ -56,12 +62,12 @@ For REDMAGIC 8PRO:
 ## Other apps
 > Apps that I found interesting to have but aren't really needed 
 
-### Synchronize your phone's wallpaper with your PC
-You will need to have a Windows PC with Wallpaper Engine installed (Paid)
+### Wallpaper engine
+Synchronize your phone's wallpaper with your PC, you will need to have a Windows PC with Wallpaper Engine installed (Paid)
 
-[Wallpaper engine](https://play.google.com/store/apps/details?id=io.wallpaperengine.weclient){: .btn .btn-blue }
+[Download](https://play.google.com/store/apps/details?id=io.wallpaperengine.weclient){: .btn .btn-blue }
 
-### PC games emulator 
+### PC games emulators 
 You can run many PC games with these emulators
 
 [Horizon](https://github.com/HorizonEmuTeam/Horizon-Emu){: .btn .btn-blue }
@@ -73,10 +79,10 @@ Your friends will know what games you're playing in your phone, open source
 
 [Kizzy](https://github.com/dead8309/Kizzy){: .btn .btn-blue }
 
-### Open source weather app 
-Weather app but it's open source 
+### Breezy weather
+Open source weather app
 
-[Breezy weather](https://github.com/breezy-weather/breezy-weather){: .btn .btn-blue }
+[Download](https://github.com/breezy-weather/breezy-weather){: .btn .btn-blue }
 
 ### Open source gallery app:
 [Gallery](https://github.com/IacobIonut01/Gallery){: .btn .btn-blue }
