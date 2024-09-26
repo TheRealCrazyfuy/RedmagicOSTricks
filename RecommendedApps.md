@@ -12,12 +12,14 @@ nav_order: 3
 
 ### Status bar mini:
 ![](./img/RecommendedApps/stausBarMiniOverlay.jpg)
+
 Overlay for Battery temperature, percentage and ram usage
 
 [Download](https://status-bar-mini.uptodown.com/android){: .btn .btn-blue }
 
 ### Scene7:
 ![](./img/RecommendedApps/sceneOverlay.jpg)
+
 Overlays for temperatures, usage and many system information
 
 [Download](https://vtools.omarea.com/){: .btn .btn-blue }
