@@ -59,6 +59,10 @@ For REDMAGIC 8PRO:
 > After installation go to Settings > Sound & vibration and you will find the multi sounds settings
 {: .block-tip }
 
+### China weather app
+Chinese version of the weather app from CN REDMAGIC OS 9, it has more widgets than international version and it should work outside China.
+
+[Download APK](https://github.com/TheRealCrazyfuy/RedmagicOSTricks/releases/download/OS9.0-weather/Weather.apk){: .btn .btn-blue }
 ## Other apps
 > Apps that I found interesting to have but aren't really needed 
 
