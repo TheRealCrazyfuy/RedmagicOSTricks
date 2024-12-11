@@ -50,7 +50,7 @@ Check many device info
 
 [Download APK](https://github.com/TheRealCrazyfuy/RedmagicOSTricks/raw/main/oldgallery.apk){: .btn .btn-blue }
 
-### Separated sounds channels - Multi sounds app (Only OS9.0 tested)
+### Separated sounds channels - Multi sounds app (OS 9.0/5 tested)
 For REDMAGIC 9PRO:
 [Download APK](https://github.com/TheRealCrazyfuy/RedmagicOSTricks/raw/main/APKs/Multi-app_sounds-9pro.apk){: .btn .btn-blue }
 
