@@ -1,9 +1,9 @@
-title: REDMAGIC Tricks
-description: A website I made to share my knowledge about REDMAGIC devices.
+title: REDMAGIC Guides
+description: Unofficial guides for REDMAGIC OS based Devices.
 theme: just-the-docs
 color_scheme: dark
 
-url: https://just-the-docs.github.io
+url: https://therealcrazyfuy.github.io/RedmagicOSTricks
 
 callouts:
   highlight:
@@ -20,3 +20,11 @@ callouts:
   warning:
     title: Warning
     color: red
+
+nav_external_links:
+  - title: Contribute
+    url: https://github.com/TheRealCrazyfuy/RedmagicOSTricks
+
+aux_links:
+  "Give us a ⭐":
+    - "https://github.com/TheRealCrazyfuy/RedmagicOSTricks"
