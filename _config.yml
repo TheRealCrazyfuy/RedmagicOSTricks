@@ -4,3 +4,19 @@ theme: just-the-docs
 color_scheme: dark
 
 url: https://just-the-docs.github.io
+
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red

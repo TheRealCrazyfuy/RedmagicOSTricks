@@ -10,8 +10,8 @@ nav_order: 2
 ## OS6 REDMAGIC gallery 
 REDMAGIC gallery from Global REDMAGIC OS6.
 
-> ##### WARNING
-> There's some reports about not working properly on the REDMAGIC 9Pro or newer models
+{: .warning }
+There's some reports about this not working properly on the REDMAGIC 9Pro or newer models
 
 [Download APK](https://github.com/TheRealCrazyfuy/RedmagicOSTricks/raw/main/oldgallery.apk){: .btn .btn-blue }
 
@@ -24,9 +24,8 @@ For REDMAGIC 9PRO:
 For REDMAGIC 8PRO:
 [Download APK](https://github.com/TheRealCrazyfuy/RedmagicOSTricks/raw/main/APKs/Multi-app_sounds-8pro.apk){: .btn .btn-blue }
 
-> ##### TIP
-> After installation go to Settings > Sound & vibration to find the multi sounds settings
-{: .block-tip }
+{: .note }
+After installation go to Settings > Sound & vibration to find the multi sounds settings
 
 ## China weather app
 Chinese version of the weather app from CN REDMAGIC OS 9.0, has more widgets than international version and it works outside China.

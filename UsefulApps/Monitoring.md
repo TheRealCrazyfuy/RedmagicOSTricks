@@ -26,9 +26,9 @@ Made by the same developer as the [previous app](#status-bar-mini), this overlay
 ## Scene7
 Overlays for temperatures, usage and many system information
 
-> ##### WARNING
-> Scene requires: [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) or a computer with ADB access.
-{: .block-warning }
+{: .warning }
+Scene requires: [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) or a computer with ADB access to set it up.
+
 
 ![](./../img/RecommendedApps/sceneOverlay.jpg)
 

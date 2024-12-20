@@ -19,7 +19,7 @@ You can run many PC games with these emulators
 [Mobox](https://github.com/olegos2/mobox){: .btn .btn-blue }
 
 ## Discord rich presence for Android
-Your friends will know what games you're playing in your phone, open source 
+Share the game you're currently playing on your phone on Discord, open source 
 
 [Kizzy](https://github.com/dead8309/Kizzy){: .btn .btn-blue }
 
