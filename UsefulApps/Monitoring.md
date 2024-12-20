@@ -23,8 +23,8 @@ Made by the same developer as the [previous app](#status-bar-mini), this overlay
 
 [Download](https://play.google.com/store/apps/details?id=info.kfsoft.android.MemoryIndicatorPro){: .btn .btn-blue }
 
-## Scene7
-Overlays for temperatures, usage and many system information
+## Scene8
+The most advanced app here, it has overlays for temperatures, usage and many more system information, it can give performance resumes after gaming sessions as well as change display resolution and tweak some system settings
 
 {: .warning }
 Scene requires: [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) or a computer with ADB access to set it up.
