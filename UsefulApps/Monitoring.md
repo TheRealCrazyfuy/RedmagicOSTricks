@@ -7,7 +7,7 @@ nav_order: 1
 # Monitoring apps
 > Monitor your system's performance seamlessly while gaming. With these apps, you can access real-time overlays displaying critical metrics such as temperature, RAM usage, battery status, and more—keeping you in control without interrupting your gameplay.
 
-## Status bar mini:
+## Status bar mini
 Light and easy to use app to have an overlay for Battery temperature, percentage and ram usage
 
 ![](./../img/RecommendedApps/stausBarMiniOverlay.jpg)
@@ -16,16 +16,23 @@ Light and easy to use app to have an overlay for Battery temperature, percentage
 
 [Download](https://status-bar-mini.uptodown.com/android){: .btn .btn-blue }
 
-## Scene7:
+## Resource monitor mini Pro
+Made by the same developer as the [previous app](#status-bar-mini), this overlay can read and show any temperature sensor that your phone has including the CPU temperature, the available memory, CPU usage and frequency.
+
+![](./../img/RecommendedApps/resourceMonitorMiniProOverlay.jpg)
+
+[Download](https://play.google.com/store/apps/details?id=info.kfsoft.android.MemoryIndicatorPro){: .btn .btn-blue }
+
+## Scene7
 Overlays for temperatures, usage and many system information
-
-![](./../img/RecommendedApps/sceneOverlay.jpg)
-
-[Download](https://vtools.omarea.com/){: .btn .btn-blue }
 
 > ##### WARNING
 > Scene requires: [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) or a computer with ADB access.
 {: .block-warning }
+
+![](./../img/RecommendedApps/sceneOverlay.jpg)
+
+[Download](https://vtools.omarea.com/){: .btn .btn-blue }
 
 ## Cpu throttling test
 Check system stability under full load
