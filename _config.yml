@@ -1,4 +1,4 @@
-title: REDMAGIC Guides
+title: REDMAGIC Docs
 description: Unofficial guides for REDMAGIC OS based Devices.
 theme: just-the-docs
 color_scheme: dark
@@ -22,7 +22,7 @@ callouts:
     color: red
 
 nav_external_links:
-  - title: Contribute
+  - title: GitHub
     url: https://github.com/TheRealCrazyfuy/RedmagicOSTricks
 
 aux_links:
