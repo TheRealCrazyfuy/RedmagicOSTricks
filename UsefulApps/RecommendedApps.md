@@ -1,7 +1,7 @@
 ---
 title: Recommended Apps
 layout: default
-nav_order: 3
+parent: Useful Apps
 ---
 
 # Recommended apps for your REDMAGIC phone

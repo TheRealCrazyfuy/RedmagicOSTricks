@@ -12,7 +12,7 @@ Unofficial collection of guides for REDMAGIC OS, made by [me](https://github.com
 - [(OS6) How to put the battery percentage inside the battery icon](guides/old/PercentageInsideBatteryIcon.html)
 
 ### Other guides
-- [Apps you must have](RecommendedApps.html)
+- [Useful Apps](UsefulApps/index.md)
 
 ### Extras
 
