@@ -4,6 +4,10 @@ layout: home
 nav_order: 1
 ---
 # REDMAGIC Docs
+
+{: .warning }
+This documentation is unfinished, while I try to do my best there's still many missing parts, we're open for contributions if anyone wants to help improving this documentation.
+
 Welcome to this unofficial documentation for REDMAGIC OS devices!
 
 This site serves as a comprehensive resource for users looking to get the most out of their REDMAGIC OS-powered devices. While still a work in progress, we're constantly expanding and improving our content.
